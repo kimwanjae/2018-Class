@@ -22,6 +22,7 @@
 [7. PWM, for, while](https://1drv.ms/p/s!AkqY9Qubv2fCdA7uKkn_UXqZRhM)<br>
  [** 강의영상:PWM(analogWrite)](https://youtu.be/SmmrB4Mn63Y)<br>
  [* 7-1. for](https://github.com/kimwanjae/2018-class-/blob/master/6.%20analogWrite(for))<br>
+ [** 강의영상:for(analogWrite)](https://youtu.be/ANi0Wz9oHW0)<br>
  [* 7-2. while](https://github.com/kimwanjae/2018-class-/blob/master/7.%20analogWrite(while))<br>
  [8. if, switch, map](https://1drv.ms/p/s!AkqY9Qubv2fCaAhPzqn57mLngX8)<br>
  [* 8-1. if](https://github.com/kimwanjae/2018-Class/blob/master/5.%20cds_if(smart%20led))<br>
