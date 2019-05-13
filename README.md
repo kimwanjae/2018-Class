@@ -16,6 +16,7 @@
  [* 4-1. traffic sign](https://github.com/kimwanjae/2018-Class/blob/master/3.%20traffic%20sign)<br>
  **강의영상:[traffic sign](https://youtu.be/wtXEUqdFJ7w)<br>
 [5. Sensing-Processing-Actuating, Serial Monitor](https://1drv.ms/p/s!AkqY9Qubv2fCcsgEyymnVnNQGzw)<br> 
+ **강의영상:[CDS](https://youtu.be/dT1vNb4kDkE)<br>
  [* 5-1. cds_test](https://github.com/kimwanjae/2018-Class/blob/master/4.%20cds_test)<br>
  [* 5-2. cds_led](https://github.com/kimwanjae/2018-Class/blob/master/5.%20cds_if(smart%20led))<br>
 [6. Pull Up, Pull Down Resistance](https://1drv.ms/p/s!AkqY9Qubv2fCe9gJMHVsHXSwUsI)<br>
