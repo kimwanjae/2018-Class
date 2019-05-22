@@ -1,0 +1,19 @@
+int melody[] = {2093, 2350, 2637, 2793, 3136, 3520,3951 ,4186};
+//int melody[] = {1046, 1174, 1318, 1396, 1568, 1760, 1975, 2093};
+//int melody[] = {262, 294, 330, 349, 392, 440, 494, 523};
+//int melody[] = {523, 587, 659, 698, 780, 880, 987, 1046};
+ 
+void setup() {
+  // put your setup code here, to run once:
+  for (int i = 0; i < 8; i++) {
+    tone(8, melody[i], 250);
+    delay(400);
+    noTone(8);
+  }
+}
+ 
+void loop() {
+  // put your main code here, to run repeatedly:
+ 
+}
+
