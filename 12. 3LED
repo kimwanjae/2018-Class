@@ -11,4 +11,9 @@ void loop() {
   analogWrite(r,0);
   analogWrite(g,255);
   analogWrite(b,0);
+  delay(3000);
+  analogWrite(r,0);
+  analogWrite(g,0);
+  analogWrite(b,0);
+  delay(1000);
 }
