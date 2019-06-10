@@ -7,6 +7,10 @@
 [포트폴리오 링크](https://docs.google.com/spreadsheets/d/1AhT1xeRG8ZRqnRa6_hmc660pHK3gHZ93yHDtM3Nob_g/edit?usp=sharing)<br>
 <hr width="100%" color="gray" size="5">
 
+<h><b> 아두이노 블로그 </b></h><br>
+[아두이노 블로그 링크](https://blog.naver.com/jjangspy)<br>
+<hr width="100%" color="gray" size="5">
+
 <h><b> 1학기 </b></h><br>
 [1. Open Source SW & HW](https://1drv.ms/p/s!AkqY9Qubv2fCcFlDhbYHVsS6E_E)<br>
 [2. Arduino IDE Install](https://1drv.ms/p/s!AkqY9Qubv2fCb4Mz-anhEmUODAg)<br>
