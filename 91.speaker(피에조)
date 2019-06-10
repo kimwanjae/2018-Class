@@ -1,0 +1,9 @@
+void setup() {
+ pinMode(8,OUTPUT);
+}
+ 
+void loop() {
+    tone(8, 252, 250);
+    delay(400);
+    noTone(8); 
+}
